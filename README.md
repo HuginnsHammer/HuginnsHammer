@@ -1,16 +1,26 @@
-## Hi there 👋
+# BLACKSITE
 
-<!--
-**HuginnsHammer/HuginnsHammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Edward Mwaura.
 
-Here are some ideas to get you started:
+I like understanding how things work under the hood — from software and Linux to AI systems and security. Most of what I learn comes from building, testing, breaking things in a lab, and working out what went wrong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I share that work. Some projects are still early; that's part of the process.
+
+### Selected work
+
+- **[LLMShield](https://github.com/HuginnsHammer/LLMShield)** — A security gateway for inspecting LLM requests and responses.
+- **[CloudSentry](https://github.com/HuginnsHammer/CloudSentry)** — A local-first tool for finding risky configurations in Terraform, Dockerfiles, and Docker Compose.
+- **[Portfolio](https://github.com/HuginnsHammer/portfolio)** — A home for my work in cybersecurity, digital forensics, and security research.
+- **[Fibonacci & Data Structures](https://github.com/HuginnsHammer/BCSF-group4-fibonacci-series-data-structures)** — A C++ group project comparing different ways to calculate Fibonacci numbers.
+
+### Interests
+
+Software engineering · Linux · AI · Cybersecurity · Digital forensics
+
+I'm here to keep learning, make useful things, and share what I figure out along the way.
+
+[Explore my repositories](https://github.com/HuginnsHammer?tab=repositories)
+
+---
+
+*Less noise. More substance.*
