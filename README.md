@@ -1,6 +1,6 @@
 # Edward Mwaura
 
-I'm interested in software, Linux, and cybersecurity. I learn best by building things, testing them, and figuring out what needs fixing.
+I'm interested in software, Linux and cybersecurity. I learn best by building things, testing them and figuring out what needs fixing.
 
 Right now, I'm spending time on two projects:
 
