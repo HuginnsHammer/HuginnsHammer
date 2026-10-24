@@ -5,7 +5,7 @@ I'm interested in software, Linux and cybersecurity. I learn best by building th
 Right now, I'm spending time on two projects:
 
 - **[LLMShield](https://github.com/HuginnsHammer/LLMShield)** — A gateway that checks requests and responses in applications using large language models.
-- **[CloudSentry](https://github.com/HuginnsHammer/CloudSentry)** — A tool for spotting security issues in Terraform, Dockerfiles, and Docker Compose configurations.
+- **[CloudSentry](https://github.com/HuginnsHammer/CloudSentry)** — A tool for spotting security issues in Terraform, Dockerfiles and Docker Compose configurations.
 
 I use this profile to share what I'm working on and what I'm learning along the way.
 
