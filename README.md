@@ -1,16 +1,18 @@
 # Edward Mwaura
 
-I'm interested in Cloud Security, AI Security Engineering and cybersecurity. I learn best by building things, testing them and figuring out what needs fixing.
+I'm interested in cybersecurity, cloud infrastructure and AI security. I learn by building software, testing it and improving what doesn't work.
 
-Right now, I'm spending time on two projects:
+## Projects
 
-- **[LLMShield](https://github.com/HuginnsHammer/LLMShield)** — A gateway that checks requests and responses in applications using large language models.
-- **[CloudSentry](https://github.com/HuginnsHammer/CloudSentry)** — A tool for spotting security issues in Terraform, Dockerfiles and Docker Compose configurations.
+- **[VANTAGE](https://github.com/HuginnsHammer/VANTAGE)** — My main project: a security exposure management platform for individuals and organizations, built around authorized assessments, evidence-backed findings and remediation.
+- **[CloudSentry](https://github.com/HuginnsHammer/CloudSentry)** — A local-first security scanner for Terraform, Dockerfiles and Docker Compose, with evidence, remediation guidance and machine-readable reports.
+- **[LLMShield](https://github.com/HuginnsHammer/LLMShield)** — An AI security gateway that inspects LLM requests and responses, applies security policies and records audit metadata.
+- **Hundred** — A private, local-first AI project exploring how models, tools and security workflows can work together.
 
-### Community
+## Community
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/HuginnsHammer/badge.svg)](https://hub.xerj.org/contributors/HuginnsHammer)
 
-I use this profile to share what I'm working on and what I'm learning along the way.
+I use this profile to share what I'm building and learning.
 
 [All my repositories](https://github.com/HuginnsHammer?tab=repositories)
