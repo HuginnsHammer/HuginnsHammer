@@ -4,7 +4,7 @@ I'm interested in cybersecurity, cloud infrastructure and AI security. I learn b
 
 ## Projects
 
-- **[VANTAGE](https://github.com/HuginnsHammer/VANTAGE)** — My main project: a security exposure management platform for individuals and organizations, built around authorized assessments, evidence-backed findings and remediation.
+- **[VANTAGE](https://github.com/HuginnsHammer/VANTAGE)** — My main project: a security exposure management platform for individuals and organizations, built around authorized assessments, evidence-backed findings and remediation. Early stages
 - **[CloudSentry](https://github.com/HuginnsHammer/CloudSentry)** — A local-first security scanner for Terraform, Dockerfiles and Docker Compose, with evidence, remediation guidance and machine-readable reports.
 - **[LLMShield](https://github.com/HuginnsHammer/LLMShield)** — An AI security gateway that inspects LLM requests and responses, applies security policies and records audit metadata.
 ## Community
